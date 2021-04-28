@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Glykeria Stravodimou
 
-Junior backend developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
+Junior software developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
 For more information please check out my [CV](https://github.com/GlykeriaStr/CV).
 
